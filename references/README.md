@@ -52,7 +52,19 @@ For each entry, include
 
 ### 141General.pdf
 
-### 1333Electronic agents and automated systems.pdf
+### § 13:33.Electronic agents and automated systems, Law of Computer Technology § 13:33
+
+File Name: 1333Electronic agents and automated systems.pdf
+
+Law of Computer Technology § 13:33
+Law of Computer Technology | May 2019 Update RAYMOND T. NIMMER
+Part B. Transactional Issues
+Chapter 13. Electronic Transaction Environments III. Process and Terms of Electronic Contracting
+§ 13:33. Electronic agents and automated systems
+
+* Page 1: **[1. Definition of ALE]**
+
+> "Modern commerce often uses automated systems. These systems range in sophistication from simple telephone answering systems to highly sophisticated and interactive computer programs. When used in forming a contract or its terms, these systems are most frequently referred to as 'electronic agents'...Virtually all contracts formed online entail atl east one electronic agent."
 
 ### ALGORITHMIC ENTITIES, 95 Wash. U. L. Rev. 887
 
